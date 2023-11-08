@@ -31,7 +31,7 @@ class LeftDrawer extends StatelessWidget {
                     style: TextStyle(
                       fontSize: 15.0, // font size 15
                       color: Colors.white, // text color white
-                      fontWeight: FontWeight.normal, // weight biasa
+                      fontWeight: FontWeight.normal, // font weight biasa
                     ),
                 ),
               ],

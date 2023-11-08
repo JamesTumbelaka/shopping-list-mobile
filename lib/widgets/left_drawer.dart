@@ -20,7 +20,7 @@ class LeftDrawer extends StatelessWidget {
                   'Shopping List',
                   textAlign: TextAlign.center,
                   style: TextStyle(
-                    fontSize: 30,
+                    fontSize: 15,
                     fontWeight: FontWeight.bold,
                     color: Colors.white,
                   ),
